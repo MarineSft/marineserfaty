@@ -1,0 +1,136 @@
+
+h1,h2,h3 {
+font-family:'Josefin Sans', sans-serif;	
+}
+
+h1{
+color: #585858;
+font-weight: bold;
+}
+
+h2{
+margin-top: 30px;
+text-align: center;
+}
+
+h3{
+color: #c76989; 
+font-weight : lighter;
+text-align: center;
+
+} 
+
+h4{
+color: #827579;
+font-weight : bold;
+font-size: 20px;
+text-align: center;
+
+}
+
+h5{
+text-align: center;
+color: #d19bb3;
+font-weight: lighter;
+
+}
+
+body{ 
+background-image: url(images/fond.jpg); 
+background-position: center;
+background-size: 1500px;
+font-family: 'Josefin Sans', sans-serif;
+
+}
+
+a{ 
+color: white;
+text-decoration: none;
+transition: 0,3 ; ease}
+
+a:hover { 
+color: pink;
+}
+
+img{ 
+	width: 200px;
+	box-shadow: 0px 5px 15px rgba(0,0,3,.5)
+	}
+
+.description {
+	background-color: white;
+	border-radius: 70px;
+	text-align: center;
+	padding: 50px; 
+	margin: auto;
+	width: 500px;
+	max-height: 500px;
+	padding-top: 20px;
+ }
+
+ .linkedin {
+ 	background-color: #424242;
+ 	padding: 10px; 
+ 	width: 200px;
+ 	margin: 20px auto;
+ 	box-shadow: 0px 5px 15px rgba(0,0,0,.1);
+ 	border-radius: 10px
+
+  }
+
+ .bloc1 {
+ 	background-color: white;
+	border-radius: 30px;
+	border-spacing: 40;
+	text-align: center;
+	padding: 30px; 
+	margin: 30px;
+	width: 500px; 
+}
+
+
+
+ .bloc2 {
+ 	background-color: white;
+	border-radius: 30px;
+	border-spacing: 40;
+	text-align: left;
+	padding: 70px; 
+	margin: 30px;
+	
+	
+ }
+
+
+ img {
+ 	border-radius: 50% ;
+    border : solid 10px #424242 ;
+
+ }
+
+ 
+ .grandediv {
+ 	display: flex;
+ }
+ 
+ .langues{
+ 	padding-right: 50px
+ 	text-align; 
+ }
+
+.IESEG { 
+color: #CB90A5; 
+
+}
+
+.TexteFormation { 
+	text-align: center;
+
+	}
+
+.MASTER { 
+	text-align: center;
+
+	}a
+
+
